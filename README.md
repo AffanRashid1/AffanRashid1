@@ -25,8 +25,9 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=affanrashid1&" alt="affanrashid1" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=affanrashid1&" alt="affanrashid1" style="filter: grayscale(100%);" />
 </p>
+
 
 #### 🚀 What I'm currently up to:
 - Building robust and user-friendly web applications.
@@ -38,7 +39,7 @@
 
 #### 📫 Let's Connect:
 - **LinkedIn:** www.linkedin.com/in/muhammad-affan-36ba5b267
-- **Portfolio:** [[[[Your Portfolio Website](Your Portfolio Link)](https://affanrashid1.github.io/affan_rashid/)](https://affanrashid1.github.io/affan_rashid/)](https://affanrashid1.github.io/affan_rashid/)
+- **Portfolio:** https://affanrashid1.github.io/affan_rashid/
 
 
 <p align="center">Happy coding! 🚀</p>
